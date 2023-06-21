@@ -2,7 +2,7 @@
 
 
 ## Presentation
-A python script3 that count the number of person crossing a line <br />
+A python3 script that count the number of person crossing a line <br />
 Using OpenCV lib: https://pypi.org/project/opencv-python/
 
 ## Usage
