@@ -10,7 +10,7 @@ Using YoloV3 algo : https://pjreddie.com/darknet/yolo/
 
 1. Download the weight files on this link (it's needed by YoloV3) : https://pjreddie.com/media/files/yolov3.weights <br />
 
-2. Add it to the root of project
+2. Add it to the root folder of project
 
 3. Create a json file or use the one included in the repository. <br />
 
