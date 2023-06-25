@@ -6,6 +6,11 @@ A python3 script that count the number of person crossing a line <br />
 Using OpenCV lib: https://pypi.org/project/opencv-python/ <br />
 Using YoloV3 algo : https://pjreddie.com/darknet/yolo/
 
+## Prerequisite
+ 1. Got installed Python3
+    
+ 3. Got installed OpenCV
+
 ## Usage
 
 1. Clone this repository on your computer.
