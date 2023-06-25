@@ -8,11 +8,13 @@ Using YoloV3 algo : https://pjreddie.com/darknet/yolo/
 
 ## Usage
 
-1. Download the weight files on this link (it's needed by YoloV3) : https://pjreddie.com/media/files/yolov3.weights <br />
+1. Clone this repository on your computer.
 
-2. Add it to the root folder of project
+2. Download the weight files on this link (it's needed by YoloV3) : https://pjreddie.com/media/files/yolov3.weights <br />
 
-3. Create a json file or use the one included in the repository. <br />
+3. Add it to the root folder of project
+
+4. Create a json file or use the one included in the repository. <br />
 
     Here his the json file needed format: <br /> <br />
     > { <br />
