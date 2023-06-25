@@ -57,7 +57,7 @@ def draw_objects(tracked_humans_dict: dict, cur_frame, pt1Line: int, pt2Line: in
             255, 0, 0), thickness=3, lineType=8, shift=0)
         # draw the line to cross
         cv2.putText(cur_frame, "count : " + str(counter),
-                    (50, 50), 0, 1, (255, 255, 255), 2)
+                    (50, 50), 0, 1, (0, 0, 255), 2)
 
 
 def getVideo(json_data):
